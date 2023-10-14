@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrincipleDemoApp", "OpenClosedPrincipleDemoApp\OpenClosedPrincipleDemoApp.csproj", "{3BDEFC62-21CA-46CB-9A2C-2694BA1F6128}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedPrincipleDemoApp", "OpenClosedPrincipleDemoApp\OpenClosedPrincipleDemoApp.csproj", "{3BDEFC62-21CA-46CB-9A2C-2694BA1F6128}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple", "{49784450-C9BC-4E66-92DD-D78FD619C280}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrincipleDemoApp", "LiskovSubstitutionPrincipleDemoApp\LiskovSubstitutionPrincipleDemoApp.csproj", "{267E3C1D-3833-4DF0-9113-4195248C89C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +17,10 @@ Global
 		{3BDEFC62-21CA-46CB-9A2C-2694BA1F6128}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BDEFC62-21CA-46CB-9A2C-2694BA1F6128}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BDEFC62-21CA-46CB-9A2C-2694BA1F6128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267E3C1D-3833-4DF0-9113-4195248C89C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267E3C1D-3833-4DF0-9113-4195248C89C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267E3C1D-3833-4DF0-9113-4195248C89C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267E3C1D-3833-4DF0-9113-4195248C89C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
